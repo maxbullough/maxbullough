@@ -1,9 +1,8 @@
 # Hi there 👋
 
 ## Name: Max Bullough
-## Main Areas: :snake: Python , :page_facing_up: HTML, :pencil: Blogging, :information_source: Project Development
+## Main Areas: :snake: Python , :page_facing_up: HTML, :pencil: Blogging, :information_source: Project Development :information_source: Linux Administration
 ## Email Address: maxbullough.public@gmail.com
 ## Phone Number: :lock::x:Restricted To Known Users Only:x::lock:
 ## Linkree: [Click Here To View My Linktree](https://linktr.ee/maxbullough.github)
-## Signature: ~mb~ (You'll see this whenever I post updates, and you'll see it in my code, so you know it's authentic.) :smile:
 
