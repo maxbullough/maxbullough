@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ## Name: Max Bullough
-## Occupation: None
 ## Main Areas: :snake: Python , :page_facing_up: HTML, :pencil: Blogging, :information_source: Project Development
 ## Email Address: maxbullough.public@gmail.com
 ## Phone Number: :lock::x:Restricted To Known Users Only:x::lock:
